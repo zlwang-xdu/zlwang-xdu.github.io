@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "王子龙"
   avatar           : "profile.png"
-  bio              : "西安电子科技大学 网络与信息安全学院"
-  location         : "陕西省西安市西沣路兴隆段266号西安电子科技大学"
+  bio              : "西安电子科技大学  网络与信息安全学院"
+  # location         : "陕西省西安市西沣路兴隆段266号西安电子科技大学"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
