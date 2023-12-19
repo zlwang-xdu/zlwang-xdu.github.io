@@ -7,7 +7,7 @@ main:
     url: /project/    
 
   - title: "科研团队"
-    url: /teaching/    
+    url: /team/    
     
   - title: "招生信息"
     url: /portfolio/
