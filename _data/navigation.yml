@@ -2,11 +2,11 @@
 main:
   - title: "个人简介"
     url: /cv/
-    
+
   - title: "学术论文"
     url: /publications/
 
-  - title: "科学研究"
+  - title: "科研项目"
     url: /project/    
 
   - title: "科研团队"
