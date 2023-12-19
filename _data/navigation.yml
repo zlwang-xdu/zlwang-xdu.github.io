@@ -10,7 +10,7 @@ main:
     url: /team/    
     
   - title: "招生信息"
-    url: /portfolio/
+    url: /lookfor/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
