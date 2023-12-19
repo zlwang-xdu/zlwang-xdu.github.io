@@ -1,8 +1,8 @@
 ---
-layout:archive
+layout: archive
 # title: "team"
-permalink:/team/
-author_profile:true
+permalink: /team/
+author_profile: true
 ---
 {% include base_path %}
 
