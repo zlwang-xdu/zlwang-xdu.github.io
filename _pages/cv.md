@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+# title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,51 +9,25 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+教育经历
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 2005-09 至 2010-07，北京大学，基础数学，博士，导师：冯荣权
+* 2008-09 至 2009-09，滑铁卢大学，电子与计算机工程，博士联合培养，导师：龚光
+* 2001-09 至 2005-07，南开大学，数学与应用数学，学士
 
-Work experience
+工作经历
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2017-07 至 现在，西安电子科技大学，网络与信息安全学院，教授
+* 2015-12 至 2017-07，西安电子科技大学，网络与信息安全学院，副教授
+* 2012-01 至 2012-12，滑铁卢大学，博士后，导师：龚光
+* 2011-01 至 2015-12，西安电子科技大学，通信工程学院，副教授
+* 2010-07 至 2011-01，西安电子科技大学，通信工程学院，讲师
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Talks
+科研教学
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 空天地一体化综合业务网全国重点实验室副主任
+* 国家级青年人才
+* 中国电子学会信息轮青年新星奖
+
